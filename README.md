@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadav Chen</h1>
 <h3 align="center">A DevOps Engineer From Israel</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadav23ant" alt="nadav23ant" /></a> </p>
-
 - 🔭 I’m currently working on [CI-CD projects](https://github.com/Nadav23AnT/World_Of_Games)
 
 - 🌱 I’m currently learning **Computer Science**
