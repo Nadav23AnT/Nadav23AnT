@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nadav Chen</h1>
 <h3 align="center">A DevOps Engineer From Israel</h3>
 
-- 🔭 I’m currently working on [CI-CD projects](https://github.com/Nadav23AnT/World_Of_Games)
+- 🔭 I’m currently working on Algorithems
 
 - 🌱 I’m currently learning **Computer Science**
-
-- 👯 I’m looking to collaborate on [Full Stack E-commerce project](https://github.com/Avichai997/ecommerce)
 
 - 🤝 I’m looking for help with **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nadav23AnT](https://github.com/Nadav23AnT)
 
-- 💬 Ask me about **Kubernetes, Docker, Cloud architecture**
+- 💬 Ask me about **AWS, Kubernetes, Docker, Cloud architecture**
 
 - 📫 How to reach me **nadav2282@gmail.com**
 
