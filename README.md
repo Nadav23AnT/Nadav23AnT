@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadav Chen</h1>
 <h3 align="center">A DevOps Engineer From Israel</h3>
 
-- 🔭 I’m currently working on Algorithems
+- 🔭 I’m currently working on getting my next position!
 
 - 🌱 I’m currently learning **Computer Science**
 
