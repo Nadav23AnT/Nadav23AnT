@@ -10,8 +10,6 @@
 - 📄 Check out my [resume](https://docs.google.com/document/d/1tS_OiwTGVr6Ve_kWBuI7UsdUbg4RHiRh/edit?usp=sharing).
 
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1tS_OiwTGVr6Ve_kWBuI7UsdUbg4RHiRh/edit?usp=sharing&ouid=111408248314072590800&rtpof=true&sd=true](https://docs.google.com/document/d/1tS_OiwTGVr6Ve_kWBuI7UsdUbg4RHiRh/edit?usp=sharing&ouid=111408248314072590800&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nadav23ant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nadav23ant" height="30" width="40" /></a>
