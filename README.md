@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nadav Chen</h1>
 <h3 align="center">A DevOps Engineer From Israel</h3>
 
-- 🔭 I’m currently working on getting my next position!
+- 🔭 I’m currently working on **getting my next position!**
+- 🌱 I’m presently diving deep into **Computer Science**.
+- 🤝 Keen to contribute to **open source projects**.
+- 👨‍💻 Explore my projects [here](https://github.com/Nadav23AnT).
+- 💬 Let's chat about **AWS, Kubernetes, Docker, Cloud architecture**.
+- 📫 Drop me an email at [my Email](mailto:nadav2282@gmail.com).
+- 📄 Check out my [resume](https://docs.google.com/document/d/1tS_OiwTGVr6Ve_kWBuI7UsdUbg4RHiRh/edit?usp=sharing).
 
-- 🌱 I’m currently learning **Computer Science**
-
-- 🤝 I’m looking for help with **open source projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Nadav23AnT](https://github.com/Nadav23AnT)
-
-- 💬 Ask me about **AWS, Kubernetes, Docker, Cloud architecture**
-
-- 📫 How to reach me **nadav2282@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1tS_OiwTGVr6Ve_kWBuI7UsdUbg4RHiRh/edit?usp=sharing&ouid=111408248314072590800&rtpof=true&sd=true](https://docs.google.com/document/d/1tS_OiwTGVr6Ve_kWBuI7UsdUbg4RHiRh/edit?usp=sharing&ouid=111408248314072590800&rtpof=true&sd=true)
 
