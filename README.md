@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadav Chen</h1>
 <h3 align="center">A passionate Software Engineer from Israel </h3>
 
-<img align="right" alt="Coding" width="300" src=https://github.com/Nadav23AnT/Nadav23AnT/assets/71144691/0f2636c4-f4d1-49f9-a5ff-569b0c4733c7>
+<img align="right" alt="Coding" width="350" src=https://github.com/Nadav23AnT/Nadav23AnT/assets/71144691/0f2636c4-f4d1-49f9-a5ff-569b0c4733c7>
 
 
 - 🔭 I’m currently looking for [my next position!](https://www.linkedin.com/in/nadavchen97/)
