@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nadav23AnT](https://github.com/Nadav23AnT)
+- 👨‍💻 All of my projects are available at [HERE](https://github.com/Nadav23AnT)
 
 - 💬 Ask me about **AWS, Kubernetes, Docker, Terraform, Cloud architecture**
 
 - 📫 How to reach me **nadav2282@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1NEIZQbTMSS0IDIRKEM0AxWBOIol6Qv9P?usp=sharing](https://drive.google.com/drive/folders/1NEIZQbTMSS0IDIRKEM0AxWBOIol6Qv9P?usp=sharing)
+- 📄 Know about my experiences [Link](https://drive.google.com/drive/folders/1NEIZQbTMSS0IDIRKEM0AxWBOIol6Qv9P?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
