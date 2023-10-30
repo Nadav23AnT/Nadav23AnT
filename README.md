@@ -27,11 +27,11 @@
 
 | Project Name 🚀        | Status        | Description                  | Technologies & Tools  🌐                                |
 | -------------------- | ------------- | ---------------------------- | ------------------------------------- |
-| [**aws-dev_env-terraform**](https://github.com/Nadav23AnT/aws-dev_env-terraform)  | ![Static Badge](https://img.shields.io/badge/Project%20Status-Completed-green) | Re-Deployable AWS Development Environment with Terraform | AWS , Terraform, infrastructure-as-code |
-| [**terraform-infrastructure-automation**](https://github.com/Nadav23AnT/terraform-infrastructure-automation)  | ![Static Badge](https://img.shields.io/badge/Project%20Status-Completed-green) | provisioning of a comprehensive AWS cloud infrastructure   | AWS , Terraform |
-| [**python-json-manipulation**](https://github.com/Nadav23AnT/python-json-manipulation)  | ![Static Badge](https://img.shields.io/badge/Project%20Status-Completed-green)   | Python script that performs various manipulations on JSON      | Python |
-| [**NoteNest-AI-app**](https://github.com/Nadav23AnT/NoteNest-AI-app)  | ![Static Badge](https://img.shields.io/badge/Project%20Status%20-%20On%20Hold%20-%20red)  | AI note taking app    | Typescript, Open AI, NextJS, Vercel, Shadcn & Tailwind CSS, ORMs |
-| [**World_Of_Games**](https://github.com/Nadav23AnT/World_Of_Games)  | ![Static Badge](https://img.shields.io/badge/Project%20Status-Completed-green)   | World of Games will be the first game I have created in Python in full CI-CD pipeline   | Python, Bash, Docker, Jenkins, Selenium |
+| [**aws-dev_env-terraform**](https://github.com/Nadav23AnT/aws-dev_env-terraform)  | ![Static Badge](https://img.shields.io/badge/Completed-green) | Re-Deployable AWS Development Environment with Terraform | AWS , Terraform, infrastructure-as-code |
+| [**terraform-infrastructure-automation**](https://github.com/Nadav23AnT/terraform-infrastructure-automation)  | ![Static Badge](https://img.shields.io/badge/Completed-green) | Provisioning of a comprehensive AWS cloud infrastructure   | AWS, Terraform |
+| [**python-json-manipulation**](https://github.com/Nadav23AnT/python-json-manipulation)  | ![Static Badge](https://img.shields.io/badge/Completed-green) | Python script that performs various manipulations on JSON      | Python |
+| [**NoteNest-AI-app**](https://github.com/Nadav23AnT/NoteNest-AI-app)  | ![Static Badge](https://img.shields.io/badge/On%20Hold-%20red) | AI note taking app    | Typescript, Open AI, NextJS, Vercel, Shadcn & Tailwind CSS, ORMs |
+| [**World_Of_Games**](https://github.com/Nadav23AnT/World_Of_Games)  | ![Static Badge](https://img.shields.io/badge/Completed-green) | World of Games will be the first game I have created in Python in full CI-CD pipeline   | Python, Bash, Docker, Jenkins, Selenium |
 
 
 <p><img align="right" alt="Coding" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadav23ant&show_icons=true&locale=en&layout=compact" alt="nadav23ant" /></p>
