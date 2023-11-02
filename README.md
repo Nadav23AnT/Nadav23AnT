@@ -27,7 +27,7 @@
 
 | Project Name 🚀        | Status        | Description                  | Technologies & Tools  🌐                                |
 | -------------------- | ------------- | ---------------------------- | ------------------------------------- |
-| [**docker-app-CI-CD**](https://github.com/Nadav23AnT/docker-app-CI-CD)  | ![Static Badge](https://img.shields.io/badge/In%20Progress-orange) |Full CI/CD App with Docker, Jenkins, and Node.js | Docker, Jenkins, NodeJS, CI-CD |
+| [**docker-app-CI-CD**](https://github.com/Nadav23AnT/docker-app-CI-CD)  | ![Static Badge](https://img.shields.io/badge/In%20Progress-orange) |Full CI/CD App with Docker, Jenkins, and Node.js | Docker, Jenkins, NodeJS, AWS, Terraform, CI-CD |
 | [**aws-dev_env-terraform**](https://github.com/Nadav23AnT/aws-dev_env-terraform)  | ![Static Badge](https://img.shields.io/badge/Completed-green) | Re-Deployable AWS Development Environment with Terraform | AWS , Terraform, infrastructure-as-code |
 | [**terraform-infrastructure-automation**](https://github.com/Nadav23AnT/terraform-infrastructure-automation)  | ![Static Badge](https://img.shields.io/badge/Completed-green) | Provisioning of a comprehensive AWS cloud infrastructure   | AWS, Terraform |
 | [**python-json-manipulation**](https://github.com/Nadav23AnT/python-json-manipulation)  | ![Static Badge](https://img.shields.io/badge/Completed-green) | Python script that performs various manipulations on JSON      | Python |
