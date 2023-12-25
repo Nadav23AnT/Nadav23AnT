@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Link](https://drive.google.com/drive/folders/1NEIZQbTMSS0IDIRKEM0AxWBOIol6Qv9P?usp=sharing)
 
-- 🌐 Visit my website for more info [NadavChen-Site]([http://www.mywebsite.com](https://nadav-chen-resume.onrender.com))
+- 🌐 Visit my website for more info [NadavChen-Site](https://nadav-chen-resume.onrender.com)
 
 
 
