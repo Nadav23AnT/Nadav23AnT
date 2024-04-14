@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently DevOps Engineer
 
-- 🌱 I’m currently learning **AWS DevOps, CI CD...**
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [HERE](https://github.com/Nadav23AnT)
