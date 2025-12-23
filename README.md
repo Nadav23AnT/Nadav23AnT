@@ -1,145 +1,222 @@
-<h1 align="center">Hey there, I'm Nadav Chen 👋</h1>
-<h3 align="center">DevOps Engineer from Israel 🚀</h3>
-
-<p align="center">
-  <img alt="Coding" width="370" src="https://github.com/Nadav23AnT/Nadav23AnT/assets/71144691/0f2636c4-f4d1-49f9-a5ff-569b0c4733c7" />
-</p>
-
----
-
-### About Me
-
-- 🔭 I’m currently working as a **DevOps Engineer**  
-- 👯 I’m looking to collaborate on **open-source projects**  
-- 💬 Ask me about **GCP, AWS, AI, AI Agents, Machine Learning, and Kubernetes with AI**  
-- 📫 How to reach me: **nadav2282@gmail.com**  
-- 👨‍💻 All my projects are available at my [GitHub Profile](https://github.com/Nadav23AnT)  
-- 📄 Learn more about my experiences [here](https://drive.google.com/drive/folders/1NEIZQbTMSS0IDIRKEM0AxWBOIol6Qv9P?usp=sharing)  
-- 🌐 Check out my website for more info: [NadavChen-Site](https://nadav-chen-resume.onrender.com)
-
----
-
-### Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nadavchen97" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nadav Chen LinkedIn" />
-  </a>
-</p>
-
----
-
-### Featured Projects
-
-| Project Name 🚀                                                                         | Status                                                   | Description                                                                                                                                                                                                                                                                                                             | Technologies & Tools 🌐                                       |
-|-----------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-| [**K8s-Event-Driven-Microservice**](https://github.com/Nadav23AnT/K8s-Event-Driven-Microservice) | ![Status](https://img.shields.io/badge/Completed-green)  | showcases a cutting-edge Kubernetes-based architecture designed to facilitate seamless communication between a RabbitMQ Listener and a Publisher.  | Kubernetes, RabbitMQ, Microservices, Docker                   |
-| [**Book-Scrabble**](https://github.com/Nadav23AnT/Book-Scrabble)                        | ![Status](https://img.shields.io/badge/Completed-green)  | This Java-based project simulates a tile management system for a Scrabble-like word game, showcasing various software engineering principles and practices.                                                                                                                                                            | Java, OOP, Software Engineering                               |
-| [**docker-app-CI-CD**](https://github.com/Nadav23AnT/docker-app-CI-CD)                  | ![Status](https://img.shields.io/badge/Completed-green)  | Full CI/CD pipeline with Docker, Jenkins, and Node.js                                                                                                                                                                                                                                                                  | Docker, Jenkins, NodeJS, AWS, Terraform, CI/CD                |
-| [**aws-dev_env-terraform**](https://github.com/Nadav23AnT/aws-dev_env-terraform)        | ![Status](https://img.shields.io/badge/Completed-green)  | Re-deployable AWS Development Environment using Terraform                                                                                                                                                                                                                                                               | AWS, Terraform, Infrastructure as Code                        |
-| [**terraform-infrastructure-automation**](https://github.com/Nadav23AnT/terraform-infrastructure-automation) | ![Status](https://img.shields.io/badge/Completed-green)  | Provisioning of a comprehensive AWS cloud infrastructure                                                                                                                                                                                                                                                               | AWS, Terraform                                                |
-| [**python-json-manipulation**](https://github.com/Nadav23AnT/python-json-manipulation)  | ![Status](https://img.shields.io/badge/Completed-green)  | Python script for various manipulations on JSON files                                                                                                                                                                                                                                                                 | Python                                                        |
-| [**NoteNest-AI-app**](https://github.com/Nadav23AnT/NoteNest-AI-app)                    | ![Status](https://img.shields.io/badge/On%20Hold-red)    | AI-powered note-taking application                                                                                                                                                                                                                                                                                    | TypeScript, OpenAI, NextJS, Vercel, Tailwind, ORMs            |
-| [**World_Of_Games**](https://github.com/Nadav23AnT/World_Of_Games)                      | ![Status](https://img.shields.io/badge/Completed-green)  | My very first Python-based game, built with a full CI/CD pipeline                                                                                                                                                                                                                                                     | Python, Bash, Docker, Jenkins, Selenium                       |
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nadav23ant&label=Profile%20views&color=0e75b6&style=flat" alt="nadav23ant" />
-</p>
-
----
-
-<div>
-  <p>
-    <img align="right" alt="stats" width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadav23ant&show_icons=true&locale=en&layout=compact" />
-  </p>
+<!-- Header -->
+<div align="center">
   
-  <h3>Languages:</h3>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  # `> nadav chen_`
+  
+  **DevOps Engineer × AI Builder**
+  
+  <br>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=I+automate+infrastructure+with+Terraform;I+build+AI+agents+with+Claude+Code;I+orchestrate+workflows+with+n8n)](https://git.io/typing-svg)
+
+  <br>
+  
+  <a href="https://linkedin.com/in/nadavchen97">
+    <img src="https://img.shields.io/badge/-nadavchen97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <a href="mailto:nadav2282@gmail.com">
+    <img src="https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <a href="https://nadav-chen-resume.onrender.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
+  
 </div>
 
----
-
-### Environments
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+<br>
 
 ---
 
-### Databases
+<br>
 
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
+### `~/about`
 
----
+```yaml
+name: Nadav Chen
+location: Israel 🇮🇱
+role: DevOps Engineer @ Israeli Ministry of Education
 
-### Technologies & Tools
+current_obsession: Making AI agents do the boring stuff
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
-  </a>
-</p>
+daily_tools:
+  ai: [Claude Code, OpenRouter, n8n, Vertex AI]
+  infra: [GCP, Kubernetes, Terraform, Cloud Run]
+  code: [Python, Bash, TypeScript]
+
+building:
+  - AI-powered automation workflows
+  - Cloud infrastructure that scales
+  - Tools that make developers' lives easier
+
+philosophy: "If I did it twice, it should be automated"
+```
+
+<br>
 
 ---
 
+<br>
+
+### `~/now`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI & Automation
+- Building agentic workflows with **Claude Code**
+- Orchestrating LLMs through **OpenRouter**
+- Creating automation pipelines in **n8n**
+- Exploring multi-agent architectures
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ Cloud & DevOps  
+- Managing **GCP** infrastructure at scale
+- Optimizing **Kubernetes** clusters
+- Writing **Terraform** for everything
+- Monitoring & observability systems
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+### `~/stack`
+
+<div align="center">
+
+| AI & Agents | Cloud | DevOps | Languages |
+|:-----------:|:-----:|:------:|:---------:|
+| ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=flat-square&logoColor=white) | ![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### `~/projects`
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<h4 align="center">🎯 K8s Event-Driven Microservice</h4>
 <p align="center">
-  <b>Thanks for stopping by!</b><br>
-  <em>Looking forward to connecting and collaborating! 😄</em>
+  <a href="https://github.com/Nadav23AnT/K8s-Event-Driven-Microservice">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+```
+Kubernetes + RabbitMQ pub/sub architecture
+for event-driven microservices
+```
+
+</td>
+<td width="50%">
+
+<h4 align="center">🚀 Docker CI/CD Pipeline</h4>
+<p align="center">
+  <a href="https://github.com/Nadav23AnT/docker-app-CI-CD">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+```
+Full CI/CD with Docker, Jenkins,
+and AWS infrastructure
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4 align="center">🏗️ AWS Dev Environment</h4>
+<p align="center">
+  <a href="https://github.com/Nadav23AnT/aws-dev_env-terraform">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+```
+Re-deployable development environment
+100% Infrastructure as Code
+```
+
+</td>
+<td width="50%">
+
+<h4 align="center">🧠 NoteNest AI</h4>
+<p align="center">
+  <a href="https://github.com/Nadav23AnT/NoteNest-AI-app">
+    <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+```
+AI-powered note-taking app
+Next.js + OpenAI + Vercel
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+---
+
+<br>
+
+### `~/stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadav23ant&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadav23ant&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="165" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  
+  ### Let's build something together
+  
+  <br>
+  
+  *Currently interested in AI agents, automation, and cloud-native projects*
+  
+  <br>
+  
+  <a href="https://linkedin.com/in/nadavchen97">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=nadav23ant&color=6366F1&style=flat-square&label=Profile+Views" />
+  
+</div>
+
+<br>
+
+<!-- Easter egg: If you're reading the source, say hi! 👋 -->
